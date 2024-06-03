@@ -26,7 +26,7 @@ Este projeto foi desenvolvido utilizando Laravel 9 e PHP 8.1.
 
 - O projeto possui uma collection na pasta 'collection', caso tenha interesse em testar os endpoints diretamente.
 
-## Teste unitário e feature
+## Testes unitários e de integração
 
 - Para rodar os testes unitarios basta rodar o comando abaixo: 
 
